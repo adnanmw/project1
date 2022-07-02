@@ -1,2 +1,2 @@
 # project1
-right  hand gesture recognition using cvzone
+Custom Hand Gesture Recognition with Hand Landmarks Using cv zone and open cv libary 
